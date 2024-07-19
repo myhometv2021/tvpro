@@ -24562,14 +24562,6 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20240719194200 +0900" stop="20240719212100 +0900" channel="H07.wavve">
-    <title lang="ko">킬커맨드: 드론의습격</title>
-    <desc lang="ko">킬커맨드: 드론의습격
-등급 : 15세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20240719194200 +0900" stop="20240719194200 +0900" channel="H07.wavve">
     <title lang="ko">PLAYY 채널 소개 영상</title>
     <desc lang="ko">PLAYY 채널 소개 영상
@@ -24650,6 +24642,14 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
+  <programme start="20240720101700 +0900" stop="20240720120600 +0900" channel="H07.wavve">
+    <title lang="ko">이니셜 D</title>
+    <desc lang="ko">이니셜 D
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
   <programme start="20240720101700 +0900" stop="20240720101700 +0900" channel="H07.wavve">
     <title lang="ko">PLAYY 채널 소개 영상</title>
     <desc lang="ko">PLAYY 채널 소개 영상
@@ -24685,14 +24685,6 @@
   <programme start="20240720152500 +0900" stop="20240720173100 +0900" channel="H07.wavve">
     <title lang="ko">터미네이터 제니시스</title>
     <desc lang="ko">터미네이터 제니시스
-등급 : 15세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20240720173100 +0900" stop="20240720191800 +0900" channel="H07.wavve">
-    <title lang="ko">숨바꼭질</title>
-    <desc lang="ko">숨바꼭질
 등급 : 15세 이상 관람가</desc>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
@@ -72651,6 +72643,112 @@ MZ 할아버지 ‘김규원’, 폼 완전 미쳤네~ 젊은 세대와 소통�
     <category lang="ko">코미디</category>
     <icon src="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg" />
     <episode-num system="onscreen">15</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240719224530 +0900" stop="20240720002713 +0900" channel="C06762.tving">
+    <title lang="ko">응답하라 1988 (16회)</title>
+    <desc lang="ko">응답하라 1988 (16회)
+회차 : 16회
+장르 : 드라마,코미디
+출연 : 성동일,이일화,라미란,김성균,김선영,유재명,류혜영,혜리,류준열,고경표
+제작 : 신원호,이우정
+등급 : 15세 이상 관람가
+16화 인생이란 아이러니 - Ⅰ
+
+사법시험 준비를 위해 고시원으로 떠나는 보라(류혜영)는 생각지 못한 선물에 눈물을 보이고 만다. 
+노래자랑 예심 준비로 바쁜 골목길 사람들! 과연 그 결과는? 
+한편, 택(박보검)은 덕선(혜리)에게 고백하기로 결심하고, ′가슴 떨리는 그날′이 오기만을 기다리는데…!</desc>
+    <credits>
+      <director>신원호</director>
+      <director>이우정</director>
+      <actor>성동일</actor>
+      <actor>이일화</actor>
+      <actor>라미란</actor>
+      <actor>김성균</actor>
+      <actor>김선영</actor>
+      <actor>유재명</actor>
+      <actor>류혜영</actor>
+      <actor>혜리</actor>
+      <actor>류준열</actor>
+      <actor>고경표</actor>
+    </credits>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <category lang="ko">코미디</category>
+    <icon src="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg" />
+    <episode-num system="onscreen">16</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240720002713 +0900" stop="20240720021739 +0900" channel="C06762.tving">
+    <title lang="ko">응답하라 1988 (17회)</title>
+    <desc lang="ko">응답하라 1988 (17회)
+회차 : 17회
+장르 : 드라마,코미디
+출연 : 성동일,이일화,라미란,김성균,김선영,유재명,류혜영,혜리,류준열,고경표
+제작 : 신원호,이우정
+등급 : 15세 이상 관람가
+제 17화 인생이란 아이러니-Ⅱ
+
+별똥별 떨어지는 날, 소중한 사람과 함께 소원을 비는 골목길 사람들! 그들의 ′소원′은? 
+택(박보검)의 고백 불발 이후, 처음으로 마주한 정환(류준열)과 택. 둘 사이엔 어색한 기운이 감도는데…!</desc>
+    <credits>
+      <director>신원호</director>
+      <director>이우정</director>
+      <actor>성동일</actor>
+      <actor>이일화</actor>
+      <actor>라미란</actor>
+      <actor>김성균</actor>
+      <actor>김선영</actor>
+      <actor>유재명</actor>
+      <actor>류혜영</actor>
+      <actor>혜리</actor>
+      <actor>류준열</actor>
+      <actor>고경표</actor>
+    </credits>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <category lang="ko">코미디</category>
+    <icon src="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg" />
+    <episode-num system="onscreen">17</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240720021739 +0900" stop="20240720040038 +0900" channel="C06762.tving">
+    <title lang="ko">응답하라 1988 (18회)</title>
+    <desc lang="ko">응답하라 1988 (18회)
+회차 : 18회
+장르 : 드라마,코미디
+출연 : 성동일,이일화,라미란,김성균,김선영,유재명,류혜영,혜리,류준열,고경표
+제작 : 신원호,이우정
+등급 : 15세 이상 관람가
+18화 굿바이 첫사랑
+
+1994년 10월 8일, 택(박보검)의 생일을 축하하기 위해 골목 친구 5인방이 오랜만에 한자리에 모인다. 
+안녕, 나의 첫사랑... 몇 년 동안 놓지 못 했던 그녀를 향한 마음을 이제 그만 놓아줘야 할 것 같다.</desc>
+    <credits>
+      <director>신원호</director>
+      <director>이우정</director>
+      <actor>성동일</actor>
+      <actor>이일화</actor>
+      <actor>라미란</actor>
+      <actor>김성균</actor>
+      <actor>김선영</actor>
+      <actor>유재명</actor>
+      <actor>류혜영</actor>
+      <actor>혜리</actor>
+      <actor>류준열</actor>
+      <actor>고경표</actor>
+    </credits>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <category lang="ko">코미디</category>
+    <icon src="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg" />
+    <episode-num system="onscreen">18</episode-num>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
